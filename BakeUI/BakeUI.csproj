@@ -6,4 +6,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Reference Include="Microsoft.AspNetCore.Components">
+        <HintPath>..\..\..\..\..\.nuget\packages\microsoft.aspnetcore.components\9.0.1\lib\net9.0\Microsoft.AspNetCore.Components.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>
